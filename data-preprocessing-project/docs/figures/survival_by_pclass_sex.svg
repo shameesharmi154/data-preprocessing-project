@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+<style>.label{font:12px sans-serif}</style>
+<rect x="40" y="40" width="191.8" height="20" fill="#2b7cff" />
+<text x="236.8032786885246" y="54" class="label">P1 male (0.37)</text>
+<rect x="40" y="70" width="503.4" height="20" fill="#ff6b6b" />
+<text x="548.4042553191489" y="84" class="label">P1 female (0.97)</text>
+<rect x="40" y="100" width="81.9" height="20" fill="#2b7cff" />
+<text x="126.85185185185185" y="114" class="label">P2 male (0.16)</text>
+<rect x="40" y="130" width="478.9" height="20" fill="#ff6b6b" />
+<text x="523.9473684210526" y="144" class="label">P2 female (0.92)</text>
+<rect x="40" y="160" width="70.4" height="20" fill="#2b7cff" />
+<text x="115.43227665706051" y="174" class="label">P3 male (0.14)</text>
+<rect x="40" y="190" width="260.0" height="20" fill="#ff6b6b" />
+<text x="305.0" y="204" class="label">P3 female (0.50)</text>
+</svg>
